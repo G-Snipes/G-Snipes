@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @G-Snipes
-- 👀 I’m interested in music, movies, learning, and computers. 
+- 👀 I do a lot of things, with software I love making website and anything in the Blockchain Web 3.0 space! 
 - 🌱 I graduated with a degree in Computer Science from Temple University. 
 - 💞️ I’m looking to collaborate on anything cool and/or helps humanity. 
-- 📫 You can reach me at: garysnipes721@gmail.com
+- 📫 You can reach me at: gsnipe721@gmail.com
 
 <!---
 G-Snipes/G-Snipes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
