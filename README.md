@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G-Snipes
-- 👀 I do a lot of things, with software I love making website and anything in the Blockchain Web 3.0 space! 
+- 👀 I do a lot of things but with software I love making websites and anything in the Blockchain Web 3.0 space! 
 - 🌱 I graduated with a degree in Computer Science from Temple University. 
 - 💞️ I’m looking to collaborate on anything cool and/or helps humanity. 
 - 📫 You can reach me at: gsnipe721@gmail.com
