@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @G-Snipes
-- 👀 I do a lot of things but with software I love making websites and anything in the Blockchain Web 3.0 space! 
+- 👋 Hi, I’m @G-Snipes and I'm a one man Web Design Agency! 
 - 🌱 I graduated with a degree in Computer Science from Temple University. 
-- 💞️ I’m looking to collaborate on anything cool and/or helps humanity. 
+- 💞️ I’m always down to check out and collaborate on projects that seem to help humanity! 
 - 📫 You can reach me at: gsnipe721@gmail.com
 
 <!---
